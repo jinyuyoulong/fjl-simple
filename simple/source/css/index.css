@@ -1,0 +1,21 @@
+body{
+	background: #fff;
+    padding: 1rem 10rem 10rem 10rem;
+    margin: 0;
+    vertical-align: middle;
+    text-align: left;
+}
+.p {
+   font-size: 1rem; //12÷16=0.75（rem）	
+}
+
+.coutent{
+	padding-left: 1rem;
+	padding-right: 1rem;
+	background-color: red;
+}
+#coutent{
+	padding-left: 1rem;
+	padding-right: 1rem;
+	background-color: red;
+}
