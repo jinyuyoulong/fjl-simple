@@ -5,6 +5,18 @@ body{
     vertical-align: middle;
     text-align: left;
 }
+div{
+	/*background-color: lightgray;*/
+}
+pre{
+	background-color: whitesmoke/*烟白色*/
+}
+code{
+	background-color: plum;/*紫红色*/
+}
+p{
+	background-color: /*淡灰蓝 浅蓝色*/;
+}
 .p {
    font-size: 1rem; //12÷16=0.75（rem）	
 }
