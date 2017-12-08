@@ -5,9 +5,11 @@
 	<meta charset="utf-8">
 </head>
 <body>
+	<h1><%- config.title %></h1>
 	<% site.posts.sort("date","desc").each(function(post){ %>
 	<hr>
 	<%- partial("_partial/post_entry", {post: post}) %>
 	<% }) %>
 	<script type="js/script.js"></script>
+	
 </body>
