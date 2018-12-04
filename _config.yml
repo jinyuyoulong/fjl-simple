@@ -27,6 +27,10 @@ index_widgets:
 archive_type: 'monthly'
 show_count: false
 
+# 百度 sitemap
+baidusitemap:
+  path: baidusitemap.xml
+
 # Miscellaneous
 google_analytics:
 gauges_analytics:
